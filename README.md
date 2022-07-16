@@ -10,7 +10,6 @@ or
 
 ```
 yarn build
-```
 
 npm start
 
@@ -21,6 +20,8 @@ or
 ```
 
 yarn start
+
+```
 
 ```
 
