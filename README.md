@@ -12,6 +12,4 @@ or
 ```
 yarn start
 yarn build
-
-
 ```
