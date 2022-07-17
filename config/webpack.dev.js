@@ -22,7 +22,7 @@ const prodConfig = {
     ],
   },
   devServer: {
-    port: 3000,
+    port: 3000 | 3001 || 3002,
     static: path.join(__dirname, "../dist"),
     compress: true,
     hot: true,
