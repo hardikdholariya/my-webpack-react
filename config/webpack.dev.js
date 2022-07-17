@@ -27,6 +27,7 @@ const prodConfig = {
     compress: true,
     hot: true,
     open: true,
+    historyApiFallback: true,
   },
   target: "web",
   plugins: [new HotModuleReplacementPlugin(), new ReactRefreshWebpackPlugin()],
