@@ -1,0 +1,6 @@
+{
+    "marquee.widgets.npm-stats.packageNames": [
+        "my-webpack-project"
+    ],
+    "liveServer.settings.port": 5501
+}
